@@ -1,0 +1,46 @@
+#redBox {
+    width: 500px;
+    height: 500px;
+    background-color: red;
+    position: relative;
+}
+
+#purpleBox {
+    width: 50%;
+    height: 50%;
+    background-color: purple;
+    position: relative;
+    top: 125px;
+    left: 125px;
+}
+
+#yellowBox {
+    width: 50%;
+    height: 50%;
+    background-color: yellow;
+}
+#blueBox {
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    position: relative;
+    top: 10px;
+}
+
+#greenBox {
+    width: 50%;
+    height: 50%;
+    background-color:green;
+    position: relative;
+    top: 0px;
+    left: 125px;
+}
+
+#blackBox {
+    width: 25%;
+    height: 25%;
+    background-color: black;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
